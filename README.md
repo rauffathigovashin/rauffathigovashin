@@ -81,8 +81,6 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rauffathigovashin&show_icons=true&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=f5a623&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauffathigovashin&layout=compact&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
 
 <br/><br/>

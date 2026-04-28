@@ -34,11 +34,6 @@ interests:
   - 🐍 Python ilə Alət İnkişafı
   - 🖥️ Linux Sistemləri
 ```
-
-> *"Rəqəmsal dünyama xoş gəlmisiniz! Mən praktik alətlər yaratmağa və kiber təhlükəsizlik sahəsində inkişaf etməyə həvəsli bir developerəm."*
-
----
-
 ## 🛠️ Texnologiyalar & Dillər
 
 <div align="center">

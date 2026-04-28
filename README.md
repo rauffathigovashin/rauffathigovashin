@@ -23,10 +23,10 @@
 
 ```yaml
 name: Rauf Fathi Govashin
-location: Baku, Azerbaijan 🇦🇿
+location: Bakı, Azərbaycan 🇦🇿
 education: Azerbaijan University
 role: Developer & Cybersecurity Enthusiast
-website: https://rauffathigovashin.netlify.app/
+website: https://rauffathi.netlify.app/
 interests:
   - 🔐 Kiber Təhlükəsizlik (Cybersecurity)
   - 🛡️ Penetration Testing
@@ -35,7 +35,7 @@ interests:
   - 🖥️ Linux Sistemləri
 ```
 
-> *"Rəqəmsal dünyamıza xoş gəlmisiniz! Mən praktik alətlər yaratmağa və kiber təhlükəsizlik sahəsində inkişaf etməyə həvəsli bir developeram."*
+> *"Rəqəmsal dünyama xoş gəlmisiniz! Mən praktik alətlər yaratmağa və kiber təhlükəsizlik sahəsində inkişaf etməyə həvəsli bir developerəm."*
 
 ---
 
@@ -45,36 +45,22 @@ interests:
 
 ### 💻 Proqramlaşdırma Dilləri
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.ruby-lang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="65" height="65"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="65" height="65"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,ruby,bash,cpp&theme=dark" alt="Python, Ruby, Bash, C++" />
 
 <br/><br/>
 
 | Dil | Səviyyə |
 |:---:|:---:|
-| 🐍 **Python** | ████████████████████ **İleri** |
-| 💎 **Ruby** | ████████████████░░░░ **Orta-İleri** |
-| 🖥️ **Bash** | ████████████████░░░░ **Orta-İleri** |
+| 🐍 **Python** | ████████████████████ **Qabaqcıl** |
+| 💎 **Ruby** | ████████████████░░░░ **Orta-Yuxarı** |
+| 🖥️ **Bash** | ████████████████░░░░ **Orta-Yuxarı** |
 | ⚡ **C++** | ████████████░░░░░░░░ **Orta** |
 
 <br/>
 
 ### 🔧 Alətlər & Platformalar
 
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" alt="Tools"/>
 
 <br/><br/>
 
@@ -86,33 +72,6 @@ interests:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Əsas Layihələr
-
-<div align="center">
-
-<a href="https://github.com/rauffathigovashin/RFG-SEC-SUITE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauffathigovashin&repo=RFG-SEC-SUITE&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=f5a623&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rauffathigovashin/SecretNotesPy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauffathigovashin&repo=SecretNotesPy&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=f5a623&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rauffathigovashin/MacChangerLinux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauffathigovashin&repo=MacChangerLinux&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=f5a623&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rauffathigovashin/NetworkScanningTool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauffathigovashin&repo=NetworkScanningTool&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=f5a623&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rauffathigovashin/ARP-Spoof-ManintheMiddle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauffathigovashin&repo=ARP-Spoof-ManintheMiddle&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=f5a623&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rauffathigovashin/WebsiteCrawler-Spider-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rauffathigovashin&repo=WebsiteCrawler-Spider-&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=f5a623&text_color=c9d1d9" />
-</a>
 
 </div>
 
@@ -140,30 +99,6 @@ interests:
 
 ---
 
-## 🏆 GitHub Trofeyləri
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rauffathigovashin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Kontribusiya İlanı
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rauffathigovashin/rauffathigovashin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rauffathigovashin/rauffathigovashin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rauffathigovashin/rauffathigovashin/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📫 Əlaqə
 
 <div align="center">
@@ -181,4 +116,3 @@ interests:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-

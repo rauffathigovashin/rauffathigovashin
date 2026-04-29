@@ -96,7 +96,7 @@ interests:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-rauffathi.netlify.app-00d9ff?style=for-the-badge&labelColor=0d1117)](https://rauffathi.netlify.app/)
+[![Website](https://img.shields.io/badge/🌐_Website-rauffathigovashin.github.io-00d9ff?style=for-the-badge&labelColor=0d1117)](https://rauffathigovashin.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-rauffathigovashin-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/rauffathigovashin/)
 [![GitHub](https://img.shields.io/badge/GitHub-rauffathigovashin-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/rauffathigovashin)
 

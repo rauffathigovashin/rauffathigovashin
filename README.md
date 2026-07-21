@@ -26,7 +26,7 @@ name: Rauf Fathi Govashin
 location: Bakı, Azərbaycan 🇦🇿
 education: Azerbaijan University
 role: Developer & Cybersecurity Enthusiast
-website: https://rauffathi.netlify.app/
+website: https://rauffathigovashin.github.io/
 interests:
   - 🔐 Kiber Təhlükəsizlik (Cybersecurity)
   - 🛡️ Penetration Testing

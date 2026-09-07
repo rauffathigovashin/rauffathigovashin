@@ -5,7 +5,7 @@
 <!-- Şəkil linkinizi "src" hissəsinə yapışdırın                  -->
 <!-- ========================================================== -->
 <a href="https://github.com/rauffathigovashin">
-  <img src="https://raw.githubusercontent.com/rauffathigovashin/rauffathigovashin/main/banner.png" 
+  <img src="https://wallpapercave.com/wp/wp11364723.jpg" 
        onerror="this.onerror=null;this.src='https://capsule-render.vercel.app/api?type=cyber&color=gradient&customColorList=1,6,12,24&height=220&section=header&text=RAUF%20FATHI%20GOVASHIN&fontSize=42&fontAlignY=40&desc=%E3%80%8C%20Neural%20Node%20Online%20%E2%80%A2%20Cybersecurity%20%26%20Low-Level%20Dev%20%E3%80%8D&descAlignY=62&descAlign=50&stroke=00d9ff&strokeWidth=2';" 
        alt="Anime Cyber Banner" width="100%"/>
 </a>

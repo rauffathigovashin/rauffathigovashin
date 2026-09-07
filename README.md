@@ -8,7 +8,7 @@
   <img src="https://github.com/rauffathigovashin/rauffathigovashin.github.io/blob/main/assets/Gemini_Generated_Image_ltpd8sltpd8sltpd.jpg?raw=true" 
      onerror="this.onerror=null;this.src='https://capsule-render.vercel.app/api?type=cyber&color=gradient&customColorList=1,6,12,24&height=350&section=header&text=RAUF%20FATHI%20GOVASHIN&fontSize=42&fontAlignY=40&desc=%E3%80%8C%20Neural%20Node%20Online%20%E2%80%A2%20Cybersecurity%20%26%20Low-Level%20Dev%20%E3%80%8D&descAlignY=62&descAlign=50&stroke=00d9ff&strokeWidth=2';" 
      alt="Anime Cyber Banner" 
-     style="width: 1200px; height: 600px; object-fit: cover;"/>
+     style="width: 1200px; height: 450px; object-fit: cover;"/>
 </a>
 
 <br/>

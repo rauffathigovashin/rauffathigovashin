@@ -22,7 +22,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=rauffathigovashin&color=00d9ff&style=for-the-badge&label=NEURAL+PINGS&labelColor=0d1117)](https://github.com/rauffathigovashin)
 [![GitHub Followers](https://img.shields.io/github/followers/rauffathigovashin?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&logoColor=00d9ff)](https://github.com/rauffathigovashin?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/rauffathigovashin?style=for-the-badge&color=ff007f&labelColor=0d1117&logo=star&logoColor=ff007f)](https://github.com/rauffathigovashin?tab=stars)
-[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff66?style=for-the-badge&labelColor=0d1117)](https://rauffathigovashin.github.io/)
+[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff66?style=for-the-badge&labelColor=0d1117)](https://rauffathigovashin.space/)
 
 </div>
 

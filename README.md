@@ -57,7 +57,7 @@ rauf@cyber-node:~$ neofetch --anime
 ● Role        : Dev & Cybersecurity Enthusiast
 ● Base        : Baku, Azerbaijan 🇦🇿
 ● Alma Mater  : Azerbaijan University
-● Web         : rauffathigovashin.github.io
+● Web         : rauffathigovashin.space
 ● Philosophy  : "I speak to computers—humans
                  don't support clean code."
 ─────────────────────────────────────────────

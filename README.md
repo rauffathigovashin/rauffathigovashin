@@ -51,11 +51,11 @@ Hobbies: Low-Level Dev, Reverse Engineering, Anime, and Music
 <h2 align="center"> 🎶 Favorite Songs </h2>
 </div>
 
-<p align="right"><a href = "https://music.youtube.com/watch?v=5_pdEtZS08A"><img src = "https://i.ytimg.com/vi/5_pdEtZS08A/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>それは小さな光のような - SAYURI </b></p>
+<p align="right"><a href = "https://open.spotify.com/track/1XCROC9lyILCukEDRX8u9L?si=3e4894e6e716437a"><img src = "https://media.istockphoto.com/id/1439742765/photo/chinese-lantern-for-chinese-new-year-celebration.jpg?s=1024x1024&w=is&k=20&c=34IPJv7HlNGDOAvGzV4CTLt8KmuLgbr68S-XsPTQ5pk=" width = "170" align = "left"/></a><b><br>Luminary by Xuan</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=766qmHTc2ro&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/766qmHTc2ro/maxresdefault.webp" width="170" align="right"></a><b><br><br>Minami 美波 – Ame wo Matsu, アメヲマツ、</b></p>
+<p align="left"><a href = "https://open.spotify.com/track/5UvlYVQQBZZz9Pkmnc3dGB?si=28dbbcd12c144ea4"><img  src ="https://preview.redd.it/city-of-lost-dreams-v0-4nn0ww02a6801.jpg?width=640&crop=smart&auto=webp&s=673279f31f54466710b8cd3ce8c1b269e872cc95" width="170" align="right"></a><b><br><br>Lost in fantasy(Slowed)</b></p>
 
 <br>
 <br>
@@ -65,20 +65,6 @@ Hobbies: Low-Level Dev, Reverse Engineering, Anime, and Music
 <br>
 
 <p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts"</b></p>
-
-</div>
-
-<br>
-<br>
-<br>
-
-<div>
-<h2 align="center"> 🎧 Listening </h2>
-</div>
-
-<div align="center">
-
-![Last.fm](https://lastfm-recently-played.vercel.app/api?user=rauffathigovashin&loved=true&show_user=always&header_style=compact_stats&count=10&maxage=60&width=620)
 
 </div>
 
@@ -100,23 +86,20 @@ Hobbies: Low-Level Dev, Reverse Engineering, Anime, and Music
 <br>
 
 <div>
-<h2 align="center"> 💼 Active Projects </h2>
-</div>
-
-| Name | Description | Link |
-|---------|-------------|------|
-| **Neural Node** | Cybersecurity tooling and low-level memory/packet analysis framework. | [Show](https://github.com/rauffathigovashin) |
-| **Kernel & Automation** | Custom Linux kernel hardening scripts and automated security pipelines. | [Show](https://github.com/rauffathigovashin) |
-
-</p>
-</div>
-<br>
-
-<div>
 <h2 align="center"> ✨Statistics👨‍💻 </h2>
 </div>
 <div align="center">
-    <img width="625em" src="./github-metrics.svg" />
+    <p align="center">
+        <a href="https://github.com/rauffathigovashin">
+            <img src="https://github-readme-stats.vercel.app/api?username=rauffathigovashin&show_icons=true&theme=tokyonight&hide_border=true" />
+            <img src="https://streak-stats.demolab.com?user=rauffathigovashin&theme=tokyonight&hide_border=true" />
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://github.com/rauffathigovashin">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauffathigovashin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+        </a>
+    </p>
 </div>
 <br>
 <br>

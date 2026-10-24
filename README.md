@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@rauffathigovashin?name=rauffathigovashin&theme=booru-lewd">
+        <img align="center" alt="count" src="![Visitor Count](https://count.getloli.com/@rauffathigovashin?name=rauffathigovashin&theme=01010010)">
     </p>
 </div>
 

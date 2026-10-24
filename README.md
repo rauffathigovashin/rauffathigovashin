@@ -109,11 +109,9 @@ Hobbies: Low-Level Dev, Reverse Engineering, Anime, and Music
 ## **📫 Contact**
 
 <a href="https://github.com/rauffathigovashin"><img align="right" width="100" src="https://media1.tenor.com/m/sOc_n7d1QWMAAAAC/turn-anime.gif" /></a> **Please Contact me on Discord for a quick
-response:** [rauffathigovashin](https://github.com/rauffathigovashin)
+response:** [Discord:@Rauffathi]
 
 **You can also email me here:** [rauffathigovashin@gmail.com](mailto:rauffathigovashin@gmail.com)
 
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com)
-[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/rauffathigovashin)
 [![](https://img.shields.io/badge/Website-00D9FF?logo=firefox&logoColor=white)](https://rauffathigovashin.space)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:rauffathigovashin@gmail.com)

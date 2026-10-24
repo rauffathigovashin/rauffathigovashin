@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://media1.tenor.com/m/wH6g4npOfHUAAAAC/r1god-ayanokoji.gif"/></h2>
 Rauf here! I'm a Developer & Cybersecurity Enthusiast from Baku, Azerbaijan. I primarily work with low-level systems, reverse engineering, automation, and penetration testing. "I speak to computers—humans don't support clean code."
 <br>
 <br>

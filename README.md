@@ -60,11 +60,11 @@ Hobbies: Low-Level Dev, Reverse Engineering, Anime, and Music
 <br>
 <br>
 
-<p align="right"><a href="https://music.youtube.com/watch?v=fE9trKOuT3Q&si=BkSxh-TtURQsoAfx"><img src="https://i.ytimg.com/vi_webp/fE9trKOuT3Q/maxresdefault.webp" width="170" align="left"></a><b><br>LONGMAN - spiral</b></p>
+<p align="right"><a href="https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L?si=071bc7218c234f3e"><img src="https://kotaku.com/app/uploads/2014/12/lb4vec4fxqwrcuclhfql.jpg" width="170" align="left"></a><b><br>Beautiful World by Hikaru Utada</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts"</b></p>
+<p align="left"><a href = "https://open.spotify.com/track/6EXKngefS01i0Wv7mM6GHM?si=a638f98f5d414aed"><img  src ="https://i.ytimg.com/vi/JbgzCRenTME/sddefault.jpg" width="170" align="right"></a><b><br><br>Into you</b></p>
 
 </div>
 

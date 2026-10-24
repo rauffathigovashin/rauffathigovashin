@@ -79,7 +79,7 @@ Hobbies: Low-Level Dev, Reverse Engineering, Anime, and Music
 <p align = "justify">Interests and Passions. <br></p>
 <p align = "center">
      <a href="https://github.com/rauffathigovashin">
-        <img style="margin: 10px;" src="https://skillicons.dev/icons?i=py,cpp,c,ruby,bash,linux,arch,kali,git,vscode,docker,regex,powershell&perline=7" alt="My Skills"/> 
+        <img style="margin: 10px;" src="https://skillicons.dev/icons?i=py,java,cpp,c,ruby,bash,linux,arch,kali,git,vscode,docker,regex,powershell&perline=7" alt="My Skills"/> 
     </a>
 </p>
 </div>

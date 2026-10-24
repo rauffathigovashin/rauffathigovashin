@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@rauffathigovashin?name=rauffathigovashin&theme=01010010">
+        <img align="center" alt="count" src="https://moe-counter.glitch.me/get/@rauffathigovashin?theme=01010010" alt="Visitor Count">
     </p>
 </div>
 

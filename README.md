@@ -24,7 +24,7 @@ If you'd like to know more about me, feel free to visit my website: [rauffathigo
 rauf@cyber-node: ~/my_readme (main⚡)$ profile
 ```
 
-<img align="left" src="https://media1.tenor.com/m/wH6g4npOfHUAAAAC/r1god-ayanokoji.gif" width="130px"/>
+<img align="left" src="https://media1.tenor.com/m/GyfkaCHQERYAAAAd/anime-scary.gif" width="130px"/>
 
 ```csharp
 My Profile
@@ -108,7 +108,7 @@ Hobbies: Low-Level Dev, Reverse Engineering, Anime, and Music
 
 ## **📫 Contact**
 
-<a href="https://github.com/rauffathigovashin"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
+<a href="https://github.com/rauffathigovashin"><img align="right" width="100" src="https://media1.tenor.com/m/sOc_n7d1QWMAAAAC/turn-anime.gif" /></a> **Please Contact me on Discord for a quick
 response:** [rauffathigovashin](https://github.com/rauffathigovashin)
 
 **You can also email me here:** [rauffathigovashin@gmail.com](mailto:rauffathigovashin@gmail.com)

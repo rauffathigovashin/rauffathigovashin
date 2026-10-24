@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" src=<img src="https://moe-counter.glitch.me/get/@rauffathigovashin?theme=01010010" alt="Visitor Count" />>
+        <img align="center" src=img src="https://moe-counter.glitch.me/get/@rauffathigovashin?theme=01010010" alt="Visitor Count" />
     </p>
 </div>
 
